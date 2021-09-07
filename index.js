@@ -1,1 +1,1 @@
-hello git
+consolge.log("hello git");
